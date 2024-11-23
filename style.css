@@ -1,0 +1,1272 @@
+body::-webkit-scrollbar{
+    display: none;
+}
+h1{
+    top: -10px; position: absolute; text-align: center; color: black; font-size: 15px; font-family: Rowdies; font-weight: 400; word-wrap: break-word
+}
+.num{
+    width: 951px;
+}
+.df{
+    color: #ffffff;
+}
+body{
+display: flex;
+flex-direction: column;
+}
+
+.b{
+    color: #ffffff;
+}
+
+.Imgae2Placeholdercnt{
+    margin-left: -15px;
+}
+
+.l{
+    color: #ffffff;
+}
+
+.mumabt{
+    width: 274px; height: 468px;
+}
+.footabt{
+    top: 724px;  
+}
+
+.YourENotAlone{
+    font-size: 60px;
+}
+
+.faqtxt{
+    font-size: 25px;
+    width: 520px;
+}
+.ThePdfIsPasswordProtectedOnceYourPaymentHasBeenConfirmedYouWillReceiveALinkToThePdfWithThePasswordVIAEmail{
+    color: #ffffff;
+}
+.mum{
+    width: 274px; height: 468px; 
+}
+
+
+.ChristinaWocintechchatComDkbtfoarrouUnsplash1{
+    margin-left: -15px;
+    margin-top: -15px;
+}
+
+.ChristinaWocintechchatComLq1t8ms5pyUnsplash1{
+    margin-left: -15px;
+    margin-top: -15px;
+}
+
+.Imgae2Placeholder{
+    margin-left: -15px;
+}
+
+.qw{
+    margin-left: -15px;
+    margin-top: -15px;
+}
+
+
+
+/* HOME PAGE DONE */
+
+.we{
+    margin-top: 15px;
+}
+
+img{
+    object-fit: cover;
+}
+
+.Rectangle7{
+    width: 945px; height: 510px;   
+}
+
+
+.oop{
+    margin-left: -15px;
+    margin-top: -15px;
+}
+
+.Q1txt{
+    width: 645px;
+    height: 80px;
+    font-size: 12px;
+    text-align: center;
+    font-family: "Rowdies", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #797979;
+}
+
+
+.Q2txt{
+    width: 645px;
+    height: 200px;
+    font-size: 12px;
+    text-align: center;
+    font-family: "Rowdies", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #797979;
+}
+
+
+.Q3txt{
+    width: 645px;
+height: 73px;
+    font-size: 12px;
+    text-align: center;
+    font-family: "Rowdies", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #797979;
+}
+
+.cuming{
+    border: px solid rgb(255, 255, 255);
+    color: white;
+    background-color: #000000;
+    width: 200px;
+    margin-top: 10px;
+border-radius: 4px;
+
+}
+
+.Howtobuy{
+    color: #ffffff;
+}
+
+.HowToBuy{
+    color: #ffffff;
+}
+
+   .Imgae2Placeholderwrk{
+   margin-left: -15px;
+}
+
+/* RESPONSIVE DESIGN */
+
+@media (max-width: 1250px) {
+
+    .Imgae2Placeholderwrk{
+        scale: 15;
+        margin-top: 1600px;
+    }
+
+    .ThePdfIsPasswordProtectedOnceYourPaymentHasBeenConfirmedYouWillReceiveALinkToThePdfWithThePasswordVIAEmail{
+        color: #000000;
+    }
+
+    .oop{
+       opacity: 0;
+    }
+    .blober{
+        scale: 0.53;
+        margin-left: -630px;
+        margin-top: -600px;
+    }
+
+    .b{
+        color: #000;
+    }
+
+    .Howtobuy{
+        color: #000000;
+    }
+
+    .HowToBuy{
+        color: #000;
+    }
+
+    .CallToActionmini{
+        margin-left: 30px;
+    }
+
+    .HeroTextfaq{
+        scale: 0.8;
+        margin-top: 40px;
+        margin-left: -300px;
+    }
+
+    .Faqs{
+        scale: 0.8;
+        margin-left: -300px;
+    }
+
+    .ebookcard, .globe{
+        margin-top: 600px;
+        margin-left: -900px;
+    }
+
+    
+    .masterclasscard, .orb{
+        margin-top: 600px;
+        margin-left: -300px;
+    }
+
+    .Footcoach{
+        margin-top: 500px;
+    }
+
+    .ChooseYourPath{
+        margin-left: -300px;
+    }
+
+    .copyright{
+        margin-top: 200px;
+        margin-left: -700px;
+    }
+
+    .CoachingLink{
+        margin-left: -100px;
+    }
+
+    .CoachingLinkabt{
+        margin-left: -200px;
+    }
+
+    .mumabt{
+        margin-left: -200px;
+    }
+
+    .AboutMe{
+        margin-left: -200px;
+    }
+
+    .CallToActionabt{
+        margin-left: -200px;
+    }
+
+    .Card1, .Card2, .Card3{
+        scale: 0.8;
+    }
+
+    .Strategies{
+        margin-left: -110px;
+    }
+
+    .book{
+        scale: 0.8;
+        margin-top: 15px;
+        margin-left: -58px;
+    }
+
+    .tree{
+        scale: 0.8;
+        margin-top: 25px;
+        margin-left: -98px;
+    }
+
+    .Strategie{
+        margin-left: -110px;
+    }
+
+    .Imgae2Placeholderebuk{
+        scale: 12;
+        margin-top: 1280px;
+    }
+
+
+}
+
+@media (max-width: 1140px) {
+.alldivc{
+    scale: 0.8;
+    margin-left: -180px;
+}
+
+.MainLinkswork{
+    margin-left: -280px;
+}
+
+.HereAreTheBenefits{
+    scale: 0.8;
+    margin-left: -280px;
+}
+
+.num{
+    scale: 0.8;
+    margin-left: -280px;
+}
+
+
+    .CoachingLink{
+        margin-left: -360px;
+    }
+
+
+    .Card1, .Card2, .Card3{
+        scale: 0.6;
+    }
+.contctus{
+    scale: 0.8;
+    margin-top: 50px;
+    margin-left: -200px;
+}
+    .Card2 {
+    margin-left: -90px;
+    }
+
+    .Card3{
+        margin-left: -190px;
+    }
+
+    .Strategies{
+        margin-left: -110px;
+    }
+
+    .Imgae2Placeholdercnt{
+        scale: 2;
+    }
+
+    .book{
+        scale: 0.8;
+        margin-top: 30px;
+        margin-left: -108px;
+    }
+
+    .tree{
+        scale: 0.8;
+        margin-top: 55px;
+        margin-left: -298px;
+    }
+
+    .Strategie{
+        margin-left: -110px;
+    }
+
+    .dfg{
+        color: #ffffff;
+    }
+    .YourENotAlone{
+        font-size: 50px;
+        margin-left: -20px;
+    }
+    .mum{
+        scale: 0.8;
+        margin-left: -220px;
+    }
+    .AboutMeSmall{
+        margin-left: -200px;
+    }
+    .FaqMsg{
+        margin-left: -200px;
+    }
+    .HeroText{
+        margin-left: -200px;
+    }
+
+    .CallToAction{
+        margin-left: -200px;
+    }
+
+    .CoachingLinkabt{
+        margin-left: -400px;
+    }
+    .mumabt{
+        scale: 0.8;
+    }
+    .AboutMe{
+        scale: 0.8;
+        margin-left: -300px;
+    }
+
+}
+
+
+@media (max-width: 880px) {
+
+    .CoachingLink{
+        margin-left: -520px;
+    }
+
+
+    .Card1, .Card2, .Card3{
+        scale: 0.5;
+    }
+
+    .Card2 {
+    margin-left: -160px;
+    }
+
+    .Card3{
+        margin-left: -290px;
+    }
+
+    .Strategies{
+        margin-left: -170px;
+    }
+
+    .book{
+        scale: 0.8;
+        margin-top: 35px;
+        margin-left: -180px;
+    }
+
+    .tree{
+        scale: 0.7;
+        margin-top: 67px;
+        margin-left: -458px;
+    }
+
+    .Strategie{
+        margin-left: -280px;
+    }
+
+    .YourENotAlone{
+        font-size: 50px;
+        margin-left: -20px;
+    }
+    .mum{
+        scale: 0.6;
+        margin-left: -280px;
+    }
+    .AboutMeSmall{
+        margin-left: -380px;
+    }
+    .FaqMsg{
+        margin-left: -300px;
+    }
+    .HeroText{
+        margin-left: -330px;
+    }
+
+    .CallToAction{
+        margin-left: -290px;
+    }
+
+    .CoachingLinkabt{
+        scale: 0.8;
+        margin-left: -570px;
+    }
+
+    .mumabt{
+        scale: 0.6;
+        margin-left: -300px;
+        margin-top: -110px;
+    }
+    .AboutMe{
+        scale: 0.6;
+        margin-left: -470px;
+        margin-top: -110px;
+    }
+
+    .contctus{
+        scale: 0.6;
+        margin-left: -400px;
+    }
+    
+    .AboutMeebuk{
+        scale: 0.7;
+        margin-left: -200px;
+    }
+
+    .ThePdfIsPasswordProtectedOnceYourPaymentHasBeenConfirmedYouWillReceiveALinkToThePdfWithThePasswordVIAEmail{
+        margin-top: 120px;
+        margin-left: 40px;
+        scale: 1.2;
+    }
+
+    .MainLinkse{
+        margin-left: -430px;
+    }
+
+    .alldivc{
+        scale: 0.5;
+        margin-left: -410px;
+        margin-top: 0px;
+    }
+    
+    .MainLinkswork{
+        margin-left: -410px;
+    }
+
+    .ACareerDevelopmentWorkshopIsDesignedToHelpIndividualsEnhanceTheirProfessionalSkillsExploreCareerOptionsAndPlanTheirCareerPaths{
+        margin-top: -20px;
+        scale: 0.8;
+    }
+    
+    .HereAreTheBenefits{
+        scale: 0.5;
+        margin-left: -400px;
+    }
+    
+    .num{
+        scale: 0.7;
+        margin-left: -300px;
+        width: 700px;
+    }
+    
+
+}
+
+
+
+@media (max-width: 700px) {
+
+    .AboutMeebuk{
+        scale: 0.7;
+    }
+
+    .HeroTextfaq{
+        scale: 0.6;
+        margin-top: 40px;
+        margin-left: -420px;
+    }
+
+    .Faqs{
+        scale: 0.6;
+        margin-left: -410px;
+    }
+
+    .workshopcard, .pen{
+        margin-top: 1720px;
+        margin-left: -300px;
+    }
+
+    
+    .masterclasscard, .orb{
+        margin-top: 1200px;
+        margin-left: -600px;
+    }
+
+    .Footcoach{
+        margin-top: 1500px;
+    }
+
+    .ChooseYourPath{
+        margin-left: -420px;
+        scale: 0.7;
+    }
+
+    .CoachingLink{
+        margin-left: -680px;
+    }
+
+
+    .Card1, .Card2, .Card3{
+        scale: 0.5;
+    }
+
+    .Card2 {
+    margin-left: -220px;
+    }
+
+    .Card3{
+        margin-left: -440px;
+    }
+
+    .Strategies{
+        margin-left: -170px;
+    }
+
+    .book{
+        scale: 0.8;
+        margin-top: 35px;
+        margin-left: -215px;
+    }
+
+    .tree{
+        scale: 0.7;
+        margin-top: 67px;
+        margin-left: -608px;
+    }
+
+    .Strategie{
+        margin-left: -380px;
+    }
+
+    .YourENotAlone{
+        font-size: 50px;
+        margin-left: -20px;
+    }
+    .mum{
+        scale: 0.6;
+        margin-left: -280px;
+    }
+    .AboutMeSmall{
+        margin-top: 20px;
+        margin-left: -460px;
+        scale: 0.7;
+    }
+    .FaqMsg{
+        margin-left: -400px;
+        scale: 0.7;
+    }
+    .HeroText{
+        margin-left: -390px;
+    }
+
+    .CallToAction{
+        margin-left: -390px;
+    }
+    .CoachingLinkabt{
+        margin-left: -740px;
+    }
+    .Aboutab{
+        margin-left: -40px;
+    }
+
+    .CallToActionabt{
+        margin-left: -450px;
+        scale: 0.8;
+        margin-top: -280px;
+    }
+
+
+    .footabt{
+        top: 160px;
+    }
+    .contctus{
+        scale: 0.5;
+        margin-top: 120px;
+        margin-left: -530px;
+    }
+
+
+
+
+}
+
+
+
+
+
+@media (max-width: 536px) {
+    .MainLinkse{
+        margin-left: -469px;
+        scale: 0.8;
+    }
+
+
+
+    .Imgae2Placeholderebuk{
+        scale: 17;
+        margin-top: 1830px;
+    }
+
+
+      .AboutMeebuk{
+        scale: 0.6;
+        margin-left: -250px;
+    }
+      .CallToActionmini{
+        margin-top: -50px;
+        margin-left: 0px;
+        scale: 0.8;
+      }
+    .CoachingLink{
+        margin-left: -750px;
+        scale: 0.8;
+    }
+ 
+    .MainLinks{
+        scale: 0.8;
+        margin-left: -50px;
+    }
+
+
+    .Card1, .Card2, .Card3{
+        scale: 0.5;
+    }
+
+    .Card2 {
+    margin-left: -220px;
+    }
+
+    .Card3{
+        margin-left: -440px;
+    }
+
+    .Strategies{
+        margin-left: -170px;
+    }
+
+    .book{
+        scale: 0.8;
+        margin-top: 35px;
+        margin-left: -215px;
+    }
+
+    .tree{
+        scale: 0.7;
+        margin-top: 67px;
+        margin-left: -608px;
+    }
+
+    .Strategie{
+        margin-left: -380px;
+    }
+
+    .YourENotAlone{
+        font-size: 50px;
+        margin-left: -20px;
+    }
+    .mum{
+        scale: 0.6;
+        margin-left: -280px;
+    }
+    .AboutMeSmall{
+        margin-top: 20px;
+        margin-left: -460px;
+        scale: 0.7;
+    }
+    .FaqMsg{
+        margin-left: -400px;
+        scale: 0.7;
+    }
+    .HeroText{
+        margin-left: -390px;
+        scale: 0.8;
+    }
+
+    .CallToAction{
+        margin-left: -390px;
+    }
+
+    .ThePdfIsPasswordProtectedOnceYourPaymentHasBeenConfirmedYouWillReceiveALinkToThePdfWithThePasswordVIAEmail{
+        margin-top: 180px;
+        margin-left: 40px;
+        scale: 1.2;
+    }
+}
+
+
+
+@media (max-width: 500px) {
+
+
+
+    
+    .CoachingLink{
+        margin-left: -750px;
+        scale: 0.8;
+    }
+ 
+    .MainLinks{
+        scale: 0.8;
+        margin-left: -50px;
+    }
+
+
+    .Card1, .Card2, .Card3{
+        scale: 0.4;
+    }
+
+    .Card2 {
+    margin-left: -230px;
+    }
+
+    .Card3{
+        margin-left: -460px;
+    }
+
+    .Strategies{
+        margin-left: -180px;
+    }
+
+    .book{
+        scale: 0.7;
+        margin-top: 45px;
+        margin-left: -240px;
+    }
+
+    .tree{
+        scale: 0.5;
+        margin-top: 77px;
+        margin-left: -638px;
+    }
+
+    .Strategie{
+        margin-left: -410px;
+    }
+
+    .YourENotAlone{
+        margin-left: -70px;
+        scale: 0.8;
+    }
+    .mum{
+        scale: 0.6;
+        margin-left: -280px;
+    }
+    .AboutMeSmall{
+        margin-top: 20px;
+        margin-left: -460px;
+        scale: 0.7;
+    }
+    .FaqMsg{
+        margin-left: -400px;
+        scale: 0.7;
+    }
+    .HeroText{
+        margin-left: -390px;
+        scale: 0.8;
+    }
+
+    .CallToAction{
+        margin-left: -390px;
+    }
+
+   .Foot{
+    scale: 0.8;
+    margin-left: -150px;
+   }
+
+   .whatsapp{
+    margin-left: -110px;
+   }
+   .phone{
+    margin-left: -110px;
+   }
+
+
+
+}
+
+
+
+@media (max-width: 400px) {
+
+    
+    .alldivc{
+        scale: 0.37;
+        margin-left: -690px;
+        margin-top: -1200px;
+    }
+    
+    .MainLinkswork{
+        margin-left: -480px;
+    }
+
+    .ACareerDevelopmentWorkshopIsDesignedToHelpIndividualsEnhanceTheirProfessionalSkillsExploreCareerOptionsAndPlanTheirCareerPaths{
+        scale: 1.8;
+        margin-top: 50px;
+    }
+    
+    .HereAreTheBenefits{
+        scale: 0.51;
+        margin-left: -480px;
+    }
+    
+    .num{
+        scale: 0.7;
+        margin-left: -240px;
+        width: 400px;
+    }
+
+    .num3,.num4{
+        margin-left: -200px;
+    }
+    
+
+
+   .AboutMeebuk{
+        scale: 0.58;
+        margin-left: -305px;
+    }
+
+    .mavabt{
+        margin-left: 35px;
+       }
+    
+       .nm{
+        scale: 1.4;
+       }
+    
+       .CoachingLinkabt{
+        margin-left: -900px;
+        margin-top: -20px;
+        scale: 0.6;
+       }
+
+
+    
+       .mumabt{
+        scale: 0.5;
+        margin-left: -220px;
+        margin-top: -230px;
+        width: 300px;
+        height: 300px;
+       }
+    
+       .AboutMe{
+        scale: 0.6;
+        margin-left: -590px;
+        margin-top: 20px;
+       }
+    
+       .CallToActionabt{
+        scale: 0.7;
+        margin-left: -490px;
+       }
+
+    .CoachingLink{
+        margin-left: -860px;
+        margin-top: -20px;
+        scale: 0.5;
+    }
+ 
+    .MainLinks{
+        scale: 0.5;
+        margin-left: -100px;
+        margin-top: -20px;
+    }
+
+
+    .Card1, .Card2, .Card3{
+        scale: 0.8;
+    }
+
+    .Card1{
+        margin-top: -80px;
+        margin-left: 100px;
+    }
+
+    .Card2 {
+    margin-left: -300px;
+    margin-top: 200px;
+    }
+
+    .Card3{
+        margin-left: -696px;
+        margin-top: 520px;
+    }
+
+    .Strategies{
+        margin-top: 10px;
+        margin-left: -180px;
+    }
+
+    .book{
+        scale: 0.9;
+        margin-top: 130px;
+        margin-left: -252px;
+    }
+
+    .tree{
+        scale: 0.9;
+        margin-top: 569px;
+        margin-left: -878px;
+    }
+
+    .Strategie{
+        margin-top: -12px;
+        margin-left: -480px;
+        scale: 0.8;
+    }
+
+    .YourENotAlone{
+        margin-left: -50px;
+        margin-top: -350px;
+        z-index: 2;
+        scale: 0.8;
+    }
+    .mum{
+        scale: 1;
+        margin-left: -200px;
+        margin-top: -40px;
+        height: 300px;
+        width: 300px;
+    }
+    .mumabt{
+        width: 400px;
+        height: 400px;
+        margin-top: -160px;
+        margin-left: -279px;
+    }
+    .AboutMeSmall{
+        margin-top: 140px;
+        margin-left: -620px;
+        text-align: center;
+        z-index: 2;
+        scale: 0.8;
+    }
+
+    .abit{
+        margin-left: 20px;
+    }
+    .FaqMsg{
+        margin-left: -410px;
+        margin-top: -10px;
+        scale: 0.7;
+    }
+  .faqtxt{
+    width: 350px;
+  }
+   .lastqt{
+    margin-top: -400px;
+    margin-left: 190px;
+   }
+.SoundFamiliar{
+    margin-left: -80px;
+}
+    .HeroText{
+        margin-left: -470px;
+        margin-top: -20px;
+        scale: 0.7;
+    }
+
+    .CallToAction{
+        margin-top: 290px;
+        margin-left: -460px;
+        scale: 0.7;
+    }
+
+   .Foot{
+    margin-top: 60px;
+    scale: 0.55;
+    margin-left: -320px;
+   }
+.Footerabt{
+    margin-top: -1090px;
+}
+   .resze{
+    opacity: 0;
+   }
+   .replacement{
+    background-color:  #BC51AF;
+    width:110vw;
+    height: 30vh;
+    margin-left: -25px;
+    margin-top: 90px;
+    border-radius: 30%;
+   }
+.l{
+    color: #000000;
+}
+
+   .whatsapp{
+    margin-top: 30px;
+    margin-left: -230px;
+    scale: 0.6;
+   }
+   .phone{
+    margin-top: 30px;
+    margin-left: -240px;
+    scale: 0.6;
+   }
+
+.abtmetxt{
+    margin-top: -410px;
+}
+.mimi{
+    margin-top: -410px;
+    margin-left: 60px;
+}
+
+.TextInAboutabt{
+    text-align: center;
+    margin-left: -20px;
+}
+
+
+.Imgae2Placeholderabt{
+    scale: 11;
+    margin-top: 1070px;
+}
+   .Imgae2Placeholderfaq{
+    scale: 19;
+    margin-top: 200px;
+   }
+
+   .Imgae2Placeholdercnt{
+    scale: 19;
+    margin-top: 2000px;
+
+   }
+   .Footerfaq{
+     margin-top: -1840px;
+   }
+
+.contctus{
+    scale: 0.5;
+    margin-left: -550px;
+}
+
+.ChooseYourPath{
+    margin-left: -480px;
+    scale: 0.6;
+}
+
+.coachingcard{
+  margin-left: -35px;
+}
+.teach{
+    margin-left: -15px;
+}
+.Footcoach{
+    margin-top: 1600px;
+}
+.workshopcard{
+    margin-top: 600px;
+    margin-left: -340px;
+}
+
+.pen{
+    margin-top: 600px;
+    margin-left: -340px;
+}
+
+.masterclasscard{
+    margin-top: 1190px;
+    margin-left: -645px;
+}
+
+.orb{
+    margin-top: 1190px;
+    margin-left: -645px;
+}
+
+.ebookcard{
+    margin-top: 1730px;
+    margin-left: -935px;
+}
+
+.globe{
+    margin-top: 1730px;
+    margin-left: -935px;
+}
+
+.ebooklink{
+    margin-left: -880px;
+    margin-top: -20px;
+    scale: 0.5;
+}
+/* HOME PAGE END */
+
+
+.CoachingLinkfaq{
+    margin-left: -880px;
+    margin-top: -20px;
+    scale: 0.5;
+}
+
+.FrequentlyAskedQuestions{
+    scale: 0.6;
+    margin-left: -150px;
+}
+.herofaq{
+    scale: 0.8;
+    margin-left: -130px;
+}
+
+.Faqs{
+    margin-left: -480px;
+    scale: 0.53;
+    margin-top: -90px;
+}
+   
+.Rectangle7{
+    width: 545px;
+    height: 850px;   
+    margin-left: 90px;
+    margin-top: 140px;
+}
+
+.Sayhi{
+    margin-top: 490px;
+    margin-left: -250px;
+    scale: 1.4;
+}
+.GetInTouch{
+    margin-left: 190px;
+    margin-top: 130px;
+    scale: 1.4;
+}
+.Instagrams, .Facebooks{
+    margin-top: 500px;
+    margin-left: -250px;
+    scale: 1.7;
+}
+.Instagramss, .Facebookss{
+    margin-top: 500px;
+    margin-left: -210px;
+    scale: 1.7;
+}
+
+.ContactUs{
+    margin-left: -40px;
+}
+.TheUltimateGuideToFiguringOutYourCareer{
+    scale: 0.8;
+    margin-left: -76px;
+}
+
+.ky{
+    scale: 1.14;
+    margin-left: 39px;
+    text-align: center;
+    margin-top: -30px;
+}
+.CallToActionmini{
+    margin-left: 65px;
+}
+
+.Howtobuy{
+    margin-left: 60px;
+}
+.ThePdfIsPasswordProtectedOnceYourPaymentHasBeenConfirmedYouWillReceiveALinkToThePdfWithThePasswordVIAEmail{
+    margin-left: 190px;
+    margin-top: 200px;
+    text-align: center;
+}
+
+.kyy{
+    margin-left: 50px;
+}
+
+.gh{
+    opacity: 0;
+}
+}
+
+
+.blob{
+    scale: 0.24;
+    color: #BC51AF;
+    margin-top: -900px;
+    margin-left: -925px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* RESPONSIVE DESIGN */
+
